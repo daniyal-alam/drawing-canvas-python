@@ -34,7 +34,7 @@ python drawing_canvas.py
 ```
 
 ## 🖼 Screenshot
-![Drawing Canvas Screenshot](thumbnail.jpg)
+![Drawing Canvas Screenshot](thumbnail.png)
 
 ## 📚 Credits
 Created as part of Stanford’s Code in Place 2025 by Daniyal Alam.
